@@ -4,6 +4,9 @@ List of open datasets
 
 Transportation
 --------------
+
+Awesome Public Datasets(Transportation)
+--------------
         
 *  `Airlines OD Data 1987-2008 <http://stat-computing.org/dataexpo/2009/the-data.html>`_
         
@@ -54,3 +57,25 @@ Transportation
 *  `U.S. Freight Analysis Framework since 2007 <http://ops.fhwa.dot.gov/freight/freight_analysis/faf/index.htm>`_
         
 *  `U.S. National Highway Traffic Safety Administration - Fatalities since [...] <ftp://nhtsa.gov/FARS/>`_
+
+Google Dataset Search
+--------------
+
+*  Car sharing https://datasetsearch.research.google.com/search?query=car+sharing&docid=vJVsk6p67mOi/LmCAAAAAA%3D%3D
+
+Highway Tollgates Traffic Flow Prediction(KDD Cup 2017)
+--------------
+
+* https://tianchi.aliyun.com/competition/entrance/231597/information
+
+Next Generation Simulation(Federal Highway Administration)
+--------------
+
+* https://ops.fhwa.dot.gov/trafficanalysistools/ngsim.htm
+
+GAIA Open Dataset(DiDi Chuxing)
+--------------
+
+* https://outreach.didichuxing.com/research/opendata/en/
+
+
